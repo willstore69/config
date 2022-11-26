@@ -1,6 +1,6 @@
 - name: nama_kamu
   server: domain_kamu
-  port: 443
+  port: port_kamu
   type: trojan
   password: password_kamu 
   skip-cert-verify: true
